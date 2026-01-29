@@ -12,6 +12,8 @@ def isPalidrome(num):
 
 print(reverse(143))
 print(isPalidrome(1236))
+print(isPalidrome(1239))
+>>>>>>> 5d48e51262b90b3294f7dcbb9aa871c06080b986
 print(reverse(121))
 print(isPalidrome(121))
 
